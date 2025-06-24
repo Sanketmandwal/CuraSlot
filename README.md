@@ -122,16 +122,11 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## 🖋️ License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📧 Contact
 
 Feel free to reach out:
 - **Author**: [Sanket Mandwal](https://github.com/Sanketmandwal)
-- **Email**: your.email@example.com
+- **Email**: sanketmandwal2@gmail.com
 
 ---
